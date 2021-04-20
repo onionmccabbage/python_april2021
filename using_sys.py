@@ -6,4 +6,3 @@ print(sys.maxsize)
 print(sys.version) # also version_info
 print(sys.path)
 print(sys.float_info)
-print(sys.float_info)

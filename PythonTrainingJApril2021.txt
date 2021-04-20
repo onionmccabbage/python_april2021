@@ -1,0 +1,71 @@
+Python Training April 2021
+==========================
+
+Toby Dussek 
+
+Monday
+> Welcome
+- overview of Python 3 (and Python 2)
+- where to write code: immediate and module
+> print() and input() 
+> maths operators and data types
+> immutable strings
+> square bracket notation for iterable collections
+> memory efficiency
+> identifiers
+> boolean True and False
+- type and type conversion, also isinstance()
+- string manipulation
+> the if statement for conditional logic
+> Python indent syntax
+> Lists, Tuples and nesting collections
+> while loop and break, continue, pass, quit
+> review exercise
+> dictionaries (non-numeric indexed iterable collections)
+> import, pip, libraries and modules
+> very big numeric values
+> looping with for
+> range, generators and comprehensions
+> set comprehension, list compresension, dictionary comprehension
+
+Tuesday
+> quick review of where we got to
+> by reference or by value
+> other kinds of Python
+> functions, args, kwargs
+> custom generator and yield
+> overview of testing
+- virtual environments - virtualenv (old) and venv (new)
+> strings with triple quotes
+> docstring
+> modules __init__.py and __name__ == '__main__'
+> review exercise
+> File input and output
+> exception handling
+
+q - can we unpack tuples e.g. the args tuple, or a 'for' iterator
+
+Wednesday
+- brief review so far
+- moving from Py2 to Py3
+  https://docs.python.org/3/howto/pyporting.html
+- PEP8 style guide
+> global and local scope 
+- string formatting syntax
+- data modeling structures
+- Objects and Classes (OOP)
+- inheritance
+- intrinsic attributes: __doc__ etc.
+- documentation strings (docstring) for classes
+- special operators and overriding
+- review exercise
+- debug tools
+- where to go from here:
+  https://pynative.com/python-exercises-with-solutions/
+- end of course feedback 
+- all my examples available for download
+
+Links
+- Python official site https://python.org
+- PEP8 style guiide https://www.python.org/dev/peps/pep-0008/
+- online Python interpreter https://repl.it/languages/Python3
