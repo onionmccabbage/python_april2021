@@ -1,0 +1,6 @@
+we can use a while loop to automatically close any open file access objects
+This saves us doing it explicitlywe can use a while loop to automatically close any open file access objects
+This saves us doing it explicitlywe can use a while loop to automatically close any open file access objects
+This saves us doing it explicitly
+we can use a while loop to automatically close any open file access objects
+This saves us doing it explicitly

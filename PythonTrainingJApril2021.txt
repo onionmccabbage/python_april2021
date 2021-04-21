@@ -5,7 +5,7 @@ Toby Dussek
 
 Monday
 > Welcome
-- overview of Python 3 (and Python 2)
+> overview of Python 3 (and Python 2)
 - where to write code: immediate and module
 > print() and input() 
 > maths operators and data types
@@ -15,7 +15,7 @@ Monday
 > identifiers
 > boolean True and False
 - type and type conversion, also isinstance()
-- string manipulation
+> string manipulation
 > the if statement for conditional logic
 > Python indent syntax
 > Lists, Tuples and nesting collections
@@ -32,10 +32,9 @@ Tuesday
 > quick review of where we got to
 > by reference or by value
 > other kinds of Python
-> functions, args, kwargs
+> functions, *args, **kwargs
 > custom generator and yield
 > overview of testing
-- virtual environments - virtualenv (old) and venv (new)
 > strings with triple quotes
 > docstring
 > modules __init__.py and __name__ == '__main__'
@@ -43,15 +42,16 @@ Tuesday
 > File input and output
 > exception handling
 
-q - can we unpack tuples e.g. the args tuple, or a 'for' iterator
+> can we unpack tuples e.g. the args tuple, or a 'for' iterator
 
 Wednesday
 - brief review so far
 - moving from Py2 to Py3
   https://docs.python.org/3/howto/pyporting.html
-- PEP8 style guide
+- virtual environments - virtualenv (old) and venv (new)
+> PEP8 style guide
 > global and local scope 
-- string formatting syntax
+> string formatting syntax
 - data modeling structures
 - Objects and Classes (OOP)
 - inheritance
