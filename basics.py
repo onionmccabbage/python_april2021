@@ -39,3 +39,7 @@ print(type(l), type(t), l[1:7], t[::-1])
 
 u = input('is it coffee yet?')
 print(type(u), float(u) )
+
+# True, False and None
+print('' == None) # False
+print({} == False) # False - it DOES equate to False
